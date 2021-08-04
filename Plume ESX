@@ -79,11 +79,6 @@ tasks:
     dest: ./resources/[esx]/es_extended
 
   - action: download_github
-    src: https://github.com/esx-framework/esx_menu_list
-    ref: c4c88a9afd475074213d2586d09ac091c389c369
-    dest: ./resources/[esx]/esx_menu_list
-
-  - action: download_github
     src: https://github.com/esx-framework/esx_datastore
     ref: dfe0321bdd7ba35b6ec3316529c220b827816997
     dest: ./resources/[esx]/esx_datastore
