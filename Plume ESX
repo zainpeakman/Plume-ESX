@@ -58,11 +58,6 @@ tasks:
     dest: ./resources/cron
 
   - action: download_github
-    src: https://github.com/esx-framework/skinchanger
-    ref: d716177f226ad696d903a27d7afa3ca97ce80a3b
-    dest: ./resources/skinchanger
-
-  - action: download_github
     src: https://github.com/HypeLevels/simpledrift
     ref: 53b72cf605bd0ef82d71906245c3af0918187d13
     dest: ./resources/simpledrift
