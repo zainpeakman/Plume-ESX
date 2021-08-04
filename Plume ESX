@@ -157,7 +157,7 @@ tasks:
     src: https://github.com/esx-framework/esx_policejob
     ref: 22cdd4ef2d7808ae8109d1e9f65a336300f2cad2
     dest: ./resources/[esx]/esx_policejob
-
+    
   - action: download_github
     src: https://github.com/esx-framework/esx_ambulancejob
     ref: ba0961095c8a31f1d993c2c13f913dbb37bf52bf
