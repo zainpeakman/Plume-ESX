@@ -79,7 +79,7 @@ tasks:
     dest: ./resources/[esx]/es_extended
 
   - action: download_github
-    src: https://github.com/esx-framework/esx_menu_default
+    src: https://github.com/Re1ease/esx_menu_default
     ref: 2d46087ade9369c46df1d80b706dc13e6e4ac673
     dest: ./resources/[esx]/esx_menu_default
 
