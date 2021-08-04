@@ -112,7 +112,7 @@ tasks:
     src: https://github.com/esx-framework/esx_billing
     ref: 18df79337a5d35b945fa1ecfa2794e6bee3407aa
     dest: ./resources/[esx]/esx_billing
-
+    
   - action: download_github
     src: https://github.com/esx-framework/esx_addoninventory
     ref: 5709570bc2cda27e08159536e3a6c9d1a3734915
